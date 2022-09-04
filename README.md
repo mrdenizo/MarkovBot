@@ -14,7 +14,7 @@ it learns your discord messages and uses Markov chain to generate new sentences.
 ```
 5. start executable again.
 ### comands
-learn <int> - learns <int> messages.
-learnfrom <int> <int> - skips <int> messages then learns <int> messages
-autolearn <bool> - turns on or off autolearn new messages
-generate - generates new message using markov chain.
+- learn <int> - learns <int> messages.
+- learnfrom <int> <int> - skips <int> messages then learns <int> messages
+- autolearn <bool> - turns on or off autolearn new messages
+- generate - generates new message using markov chain.
